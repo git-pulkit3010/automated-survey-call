@@ -1,3 +1,4 @@
+```bash
 (venv) pulkit3010:~/Documents/Projects$ python auto_survery.py 
 ✅ Database initialized: survey_database.db
 ⚠️ leads.xlsx not found. Creating dummy data...
@@ -53,3 +54,4 @@
   5   Charlie Lee 15550105 completed 2026-05-17 18:57:44  declined
 
 📈 Summary: 3/5 Confirmed (60.0%)
+```
